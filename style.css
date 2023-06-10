@@ -171,3 +171,13 @@ button {
   border-color: red;
   background: pink;
 }
+
+a{
+  text-decoration:#008CBA;
+}
+a:link, a:visited {
+  color: #008CBA;
+}
+a:hover{
+  text-decoration: underline;
+}
